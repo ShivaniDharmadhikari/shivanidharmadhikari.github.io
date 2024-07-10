@@ -34,6 +34,7 @@ Future
 ------
 
 2026 - ?
+
 My aim is to pursue a postdoctoral position to advance our understanding of  fundamental early developmental processes in embryology.
 I have developed expertise in biochemical, molecular, and advanced biophysical techniques including optogenetics, lattice light sheet imaging, optical tweezers, and live imaging. I aim to integrate these interdisciplinary approaches to study biophysical measurements in early embryology, focusing on quantifying mechanical forces, analyzing cell signaling dynamics, and understanding spatial organization within developing embryos. Ultimately, I aspire to lead a research group pioneering new techniques and addressing fundamental questions at the intersection of physics and biology.
 
