@@ -8,14 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am generally interested in scientific research, while my career thus far focused in the field of computational biology/biochemistry, I am also eager to apply my skill set for problem solving within other natural sciences. My life-long secular pilgrimage is to pursue the nature of reality through unceasing study of philosophy, mathematics, and physical sciences.
+I am a biologist with a strong interest in the intersections of biology and physics. My expertise includes microscopy, advanced optical techniques and biophysical measurement techniques  to study the early stages of embryonic development. I thrive in interdisciplinary environments and am dedicated to uncovering fundamental processes that shape life. My future goal is to apply my research in early developmental biology.
 
 Currently
 ------
 
-2021-2025
+2022 - Present
 
-I am a PhD student at the [Physical Chemistry Curie Lab](https://institut-curie.org/unit/umr168), an interdiscipinary research unit of [Institut Curie](https://curie.fr/) that uses physics to understand living matter. While [my team](https://institut-curie.org/team/levy) specialises in molecular microscopy of membranes by means of in vitro reconstitution and cryo-electron microscopy, [my project](https://copper-antoinette-68.tiiny.site) is focused on the development and application of image processing workflows for characterising membrane morphologies and resolving membrane protein structures from cryo-electron tomography data. 
+I am a PhD student at the Jean-Léon Maître Lab, Institut Curie, Paris. My research focuses on understanding the plasma membrane mechanics during the formation of the first mammalian epithelium in preimplantation development. This work involves the use of advanced imaging techniques, and biophysical measurements to understand developmental morphogenesis. 
+![image](https://github.com/ShivaniDharmadhikari/shivanidharmadhikari.github.io/assets/140599249/a7655987-a699-4fab-928d-01a104b5ace0)
 
 Previously
 ------
