@@ -46,7 +46,7 @@ Research experience
   * Optimization of the optogenetic tool to study cell death in epithelia of zebrafish.
   * Hosted by the [Leptin group](https://www.embl.org/groups/leptin/) led by Dr. Maria Leptin
   * Supervised by Dr. Eva Hasel & Dr. Maria Leptin
-  * Publication: The Opto-inflammasome in zebrafish as a tool to study cell and tissue responses to speck formation and cell death](https://elifesciences.org/articles/86373).
+  * Publication: The Opto-inflammasome in zebrafish as a tool to study cell and tissue responses to speck formation and cell death[The Opto-inflammasome in zebrafish as a tool to study cell and tissue responses to speck formation and cell death](https://elifesciences.org/articles/86373) 
 
  
 * 12/2019 - 03/2020 (4 months): Master's Thesis 2
