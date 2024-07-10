@@ -10,4 +10,4 @@ citation: 'Eva Hasel de CarvalhoShivani S DharmadhikariKateryna ShkarinaJingwei 
 https://doi.org/10.7554/eLife.86373'
 ---
 
-[Download paper here](http://cyanching.github.io/files/Paper_1.pdf)
+[Download paper here](http://shivanidharmadhikari.github.io/files/Paper_1.pdf)
