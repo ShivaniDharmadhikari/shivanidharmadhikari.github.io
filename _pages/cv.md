@@ -11,17 +11,18 @@ redirect_from:
 
 Education
 ------
-* BSc with distinction: cum laude, awarded by [University College Utrecht](https://www.uu.nl/en/organisation/university-college-utrecht), an honours college of [Utrecht University](https://www.uu.nl/en) in 2018.
+* BSc in microbiology and biochemistry: Honors, awarded by [St. Xavier's College](https://xaviers.ac/), an honours college of [Mumbai University](https://mu.ac.in/) in 2018.
 
-Completed Cognitive Neuroscience (1), Chemistry (2), Molecular Cell Biology (2), and Medicine (3) tracks (number indicates course weight rank). Gained the '[Pre-Med](https://students.uu.nl/en/university-college-utrecht/academics/science/medical-science)' qualification recognised by research medical doctor master programmes in the Netherlands.
+Completed Microbiology (1), Biochemistry (1), Chemistry (2) and Physics (2) tracks (number indicates course weight rank). Gained the '[Pre-Med](https://sites.google.com/xaviers.edu/microbiology)' qualification recognised by research medical doctor master programmes in India.
 
-* MSc with distinction: cum laude, awarded by the [Molecular Biosciences](https://www.uni-heidelberg.de/en/study/all-subjects/molecular-biosciences/molecular-biosciences-master) programme at [Heidelberg University](https://www.uni-heidelberg.de/en) in 2021.
+* MSc in Microbiology: awarded by the [St. Xavier's College](https://xaviers.ac/) programme at [Mumbai University](https://mu.ac.in/) in 2020.
 
-Focused in Bioinformatics and Computational Biology.
+Focused in Developmental Biology.
 
-* PhD degree to be awarded by [PSL Research University](https://psl.eu/en), expected by the end of March, 2025.
+* PhD degree to be awarded by [PSL Research University](https://psl.eu/en), expected by the end of September, 2026.
 
-Project focused on the development and application of image-processing workflows for characterising membrane morphologies and resolving membrane protein molecular structures from cryo-electron tomography data.
+Project focused on understanding the mechanics of the plasma membrane during mouse preimplantation development. During epithelial stretching, cells must increase their surface area by unfolding microstructures (plasma membrane reservoirs) at the cell surface which remain poorly characterized structures in vivo. During mouse preimplantation development the trophectoderm (TE) constitutes a thin, epithelial monolayer that stretches and quadruples the surface area of the embryo to accommodate the inflating lumen. My research focuses on understanding the mechanics of plasma membrane reservoirs during both the first apicobasal polarization and lumen formation, two processes that require significant changes to the plasma membrane organization. Using optical tweezers to pull membrane tethers/tubes, we probed plasma membrane mechanics throughout preimplantation development. We found that membrane tension decreases from the zygote to 4-cell stage, before increasing again at the 8-cell stage when apico-basal polarity is typically established. Importantly, this result was further confirmed using fluorescence lifetime imaging microscopy (FLIM) of a membrane tension probe. Typically the apical surface of 8 cell embryo is characterized by a tuft of microvilli and thus we hypothesise that these microstructures are acting as membrane reservoirs.  Future measurements will target localised regions of the plasma membrane,anticipated to exhibit unique properties and behaviors due to membrane reservoirs during epithelial stretching. Additional theoretical modeling will illuminate the intricate and complex interplay of these reservoirs, elucidating their role in shaping plasma membrane mechanics during preimplantation morphogenesis.
+
 
 Funded by the [EuReCa international PhD programme](https://training.institut-curie.org/eureca) supported by the [European Union’s Horizon 2020 research and innovation](https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-2020_en) programme, [Marie Skłodowska-Curie Actions](https://marie-sklodowska-curie-actions.ec.europa.eu/) fellow. 
 
