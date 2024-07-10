@@ -1,16 +1,13 @@
 ---
-title: "A workflow for exploring ligand
-dissociation from a macromolecule:
-Efficient random acceleration molecular
-dynamics simulation and interaction
-fingerprint analysis of ligand trajectories"
+title: "The Opto-inflammasome in zebrafish as a tool to study cell and tissue responses to speck formation and cell death"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'The dissociation of ligands from proteins and other biomacromolecules occurs over a wide range of timescales. For most pharmaceutically relevant inhibitors, these timescales are far beyond those that are accessible by conventional molecular dynamics (MD) simulation. Consequently, to explore ligand egress mechanisms and compute dissociation rates, it is necessary to enhance the sampling of ligand unbinding. Random Acceleration MD (RAMD) is a simple method to enhance ligand egress from a macromolecular binding site, which enables the exploration of ligand egress routes without prior knowledge of the reaction coordinates. Furthermore, the τRAMD procedure can be used to compute the relative residence times of ligands. When combined with a machine-learning analysis of protein–ligand interaction fingerprints (IFPs), molecular features that affect ligand unbinding kinetics can be identified. Here, we describe the implementation of RAMD in GROMACS 2020, which provides significantly improved computational performance, with scaling to large molecular systems. For the automated analysis of RAMD results, we developed MD-IFP, a set of tools for the generation of IFPs along unbinding trajectories and for their use in the exploration of ligand dynamics. We demonstrate that the analysis of ligand dissociation trajectories by mapping them onto the IFP space enables the characterization of ligand dissociation routes and metastable states. The combined implementation of RAMD and MD-IFP provides a computationally efficient and freely available workflow that can be applied to hundreds of compounds in a reasonable computational time and will facilitate the use of τRAMD in drug design.'
-date: 2020-09-25
-venue: 'The Journal of Chemical Physics'
-paperurl: 'https://pubs.aip.org/aip/jcp/article-abstract/153/12/125102/1062851/A-workflow-for-exploring-ligand-dissociation-from?redirectedFrom=fulltext'
-citation: 'Kokh, D. B., Doser, B., Richter, S., Ormersbach, F., Cheng, X. (Ching, C.), & Wade, R. C. (2020). A workflow for exploring ligand dissociation from a macromolecule: Efficient random acceleration molecular dynamics simulation and interaction fingerprint analysis of ligand trajectories. The Journal of Chemical Physics, 153(12), 125102.'
+excerpt: 'The inflammasome is a conserved structure for the intracellular detection of danger or pathogen signals. As a large intracellular multiprotein signaling platform, it activates downstream effectors that initiate a rapid necrotic programmed cell death (PCD) termed pyroptosis and activation and secretion of pro-inflammatory cytokines to warn and activate surrounding cells. However, inflammasome activation is difficult to control experimentally on a single-cell level using canonical triggers. We constructed Opto-ASC, a light-responsive form of the inflammasome adaptor protein ASC (Apoptosis-Associated Speck-Like Protein Containing a CARD) which allows tight control of inflammasome formation in vivo. We introduced a cassette of this construct under the control of a heat shock element into zebrafish in which we can now induce ASC inflammasome (speck) formation in individual cells of the skin. We find that cell death resulting from ASC speck formation is morphologically distinct from apoptosis in periderm cells but not in basal cells. ASC-induced PCD can lead to apical or basal extrusion from the periderm. The apical extrusion in periderm cells depends on Caspb and triggers a strong Ca2+ signaling response in nearby cells.'
+date: July 7, 2023
+venue: 'eLife'
+paperurl: 'https://elifesciences.org/articles/86373'
+citation: 'Eva Hasel de CarvalhoShivani S DharmadhikariKateryna ShkarinaJingwei Rachel XiongBruno ReversadePetr BrozMaria Leptin (2023) The Opto-inflammasome in zebrafish as a tool to study cell and tissue responses to speck formation and cell death eLife 12:e86373.
+https://doi.org/10.7554/eLife.86373'
 ---
 
 [Download paper here](http://cyanching.github.io/files/Paper_1.pdf)
