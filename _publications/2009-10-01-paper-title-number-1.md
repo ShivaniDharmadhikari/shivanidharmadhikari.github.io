@@ -6,8 +6,10 @@ excerpt: 'The inflammasome is a conserved structure for the intracellular detect
 date: July 7, 2023
 venue: 'eLife'
 paperurl: 'https://elifesciences.org/articles/86373'
-citation: 'Eva Hasel de CarvalhoShivani S DharmadhikariKateryna ShkarinaJingwei Rachel XiongBruno ReversadePetr BrozMaria Leptin (2023) The Opto-inflammasome in zebrafish as a tool to study cell and tissue responses to speck formation and cell death eLife 12:e86373.
-https://doi.org/10.7554/eLife.86373'
+citation: 'Eva Hasel de Carvalho, Shivani S Dharmadhikari, Kateryna Shkarina, Jingwei Rachel Xiong, Bruno Reversade, Petr Broz, Maria Leptin (2023) The Opto-inflammasome in zebrafish as a tool to study cell and tissue responses to speck formation and cell death eLife 12:e86373
+
+            https://doi.org/
+    '
 ---
 
 [Download paper here](http://shivanidharmadhikari.github.io/files/Paper_1.pdf)
