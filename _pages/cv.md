@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ------
-* BSc in microbiology and biochemistry: Honors, awarded by [St. Xavier's College](https://xaviers.ac/), an honours college of [Mumbai University](https://mu.ac.in/) in 2018.
+* BSc in microbiology and biochemistry: Honors in Microbiology and Chemistry, awarded by [St. Xavier's College](https://xaviers.ac/), an honours college of [Mumbai University](https://mu.ac.in/) in 2018.
 
-Completed Microbiology (1), Biochemistry (1), Chemistry (2) and Physics (2) tracks (number indicates course weight rank). Gained the '[Pre-Med](https://sites.google.com/xaviers.edu/microbiology)' qualification recognised by research medical doctor master programmes in India.
+Completed Microbiology (1), Biochemistry (1), Chemistry (2) and Physics (3) tracks (number indicates course weight rank).(https://sites.google.com/xaviers.edu/microbiology)' qualification recognised by research medical doctor master programmes in India.
 
 * MSc in Microbiology: awarded by the [St. Xavier's College](https://xaviers.ac/) programme at [Mumbai University](https://mu.ac.in/) in 2020.
 
@@ -21,7 +21,9 @@ Focused in Developmental Biology.
 
 * PhD degree to be awarded by [PSL Research University](https://psl.eu/en), expected by the end of September, 2026.
 
-Project focused on understanding the mechanics of the plasma membrane during mouse preimplantation development. During epithelial stretching, cells must increase their surface area by unfolding microstructures (plasma membrane reservoirs) at the cell surface which remain poorly characterized structures in vivo. During mouse preimplantation development the trophectoderm (TE) constitutes a thin, epithelial monolayer that stretches and quadruples the surface area of the embryo to accommodate the inflating lumen. My research focuses on understanding the mechanics of plasma membrane reservoirs during both the first apicobasal polarization and lumen formation, two processes that require significant changes to the plasma membrane organization. Using optical tweezers to pull membrane tethers/tubes, we probed plasma membrane mechanics throughout preimplantation development. We found that membrane tension decreases from the zygote to 4-cell stage, before increasing again at the 8-cell stage when apico-basal polarity is typically established. Importantly, this result was further confirmed using fluorescence lifetime imaging microscopy (FLIM) of a membrane tension probe. Typically the apical surface of 8 cell embryo is characterized by a tuft of microvilli and thus we hypothesise that these microstructures are acting as membrane reservoirs.  Future measurements will target localised regions of the plasma membrane,anticipated to exhibit unique properties and behaviors due to membrane reservoirs during epithelial stretching. Additional theoretical modeling will illuminate the intricate and complex interplay of these reservoirs, elucidating their role in shaping plasma membrane mechanics during preimplantation morphogenesis.
+Project focused on understanding the mechanics of the plasma membrane during mouse preimplantation development. 
+
+During epithelial stretching, cells must increase their surface area by unfolding microstructures (plasma membrane reservoirs) at the cell surface which remain poorly characterized structures in vivo. During mouse preimplantation development the trophectoderm (TE) constitutes a thin, epithelial monolayer that stretches and quadruples the surface area of the embryo to accommodate the inflating lumen. My research focuses on understanding the mechanics of plasma membrane reservoirs during both the first apicobasal polarization and lumen formation, two processes that require significant changes to the plasma membrane organization. Using optical tweezers to pull membrane tethers/tubes, we probed plasma membrane mechanics throughout preimplantation development. We found that membrane tension decreases from the zygote to 4-cell stage, before increasing again at the 8-cell stage when apico-basal polarity is typically established. Importantly, this result was further confirmed using fluorescence lifetime imaging microscopy (FLIM) of a membrane tension probe. Typically the apical surface of 8 cell embryo is characterized by a tuft of microvilli and thus we hypothesise that these microstructures are acting as membrane reservoirs.  Future measurements will target localised regions of the plasma membrane,anticipated to exhibit unique properties and behaviors due to membrane reservoirs during epithelial stretching. Additional theoretical modeling will illuminate the intricate and complex interplay of these reservoirs, elucidating their role in shaping plasma membrane mechanics during preimplantation morphogenesis.
 
 
 Funded by the [EuReCa international PhD programme](https://training.institut-curie.org/eureca) supported by the [European Union’s Horizon 2020 research and innovation](https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-2020_en) programme, [Marie Skłodowska-Curie Actions](https://marie-sklodowska-curie-actions.ec.europa.eu/) fellow. 
@@ -31,21 +33,20 @@ Member of [l’école doctorale Complexité du Vivant](https://www.sorbonne-univ
 
 Research experience
 ------
-* 09 2021 - 03 2025: PhD project
-  * The [Physical Chemistry Curie Lab](https://institut-curie.org/unit/umr168) (UMR168), [Institut Curie](https://institut-curie.org/)
-  * The development and application of image-processing workflows for characterising membrane morphologies and resolving membrane protein molecular structures from cryo-electron tomography data.
-  * Hosted by the [Molecular Microscopy of Membranes](https://institut-curie.org/team/levy) team led by Dr. Daniel Lévy
-  * Supervisors: [Dr. Daniel Lévy](https://institut-curie.org/personne/daniel-levy) & [Dr. Manuela Dezi](https://institut-curie.org/personne/manuela-dezi)
-  * Thesis committee members: [Prof. Simon Anders](https://www.zmbh.uni-heidelberg.de/Anders/), [Dr. Mickael Cohen](http://www.ibpc.fr/en/members-829.htm), & [Dr. Slavica Jonic](https://scai.sorbonne-universite.fr/public/profiles/view/2c3baf02ede0fc8c6be1/67)
+* 09 2022 - 09 2026: PhD project
+  * The [Genetics and Developmental biology](https://curie.fr/unite/umr3215-u934) (UMR 3215 - Unite 934), [Institut Curie](https://institut-curie.org/)
+  * Project focused on understanding the mechanics of the plasma membrane during mouse preimplantation development.
+  * Hosted by the [Mechanics of Mammalian Development](https://institut-curie.org/team/maitre) team led by Dr. Jean-Léon Maitre
+  * Supervisors: [Dr. Jean-Léon Maitre](https://institut-curie.org/personne/jean-leon-maitre) 
+  * Thesis committee members: [Dr Patricia Bassereau](https://curie.fr/personne/patricia-bassereau), [Dr. Yohanns Bellaïche](https://institut-curie.org/personne/yohanns-bellaiche), [Dr. Alexander Aulehla](https://www.embl.org/people/person/alexander-aulehla/) & [Dr. Zhou Xu](http://www.lcqb.upmc.fr/users/zhou-xu)
 
 
-* 03 2020 - 08 2021: Master thesis
-  * The [Structural and Computational Biology unit](https://www.embl.org/research/units/structural-and-computational-biology/), the [European Molecular Biology Laboratory (EMBL) Heidelberg](https://www.embl.org/sites/heidelberg/)
-  * The development of an image processing workflow for resolving structures of the Mumps viral capsid in the cellular context by means of in situ cryo-electron tomography.
-  * Hosted by the [Mahamid group](https://www.embl.org/groups/mahamid/) led by Dr. Julia Mahamid
-  * Supervised by Dr. Xiaojie Zhang & Dr. Julia Mahamid
-  * Examiners: Prof. Rebecca Wade & Prof. Georg Stoecklin 
-  * Publication: [Molecular mechanisms of stress-induced reactivation in mumps virus condensates](https://www.sciencedirect.com/science/article/pii/S0092867423002763).
+* 01 2021 - 08 2021: Project assistant
+  * The [Developmental biology unit](https://www.embl.org/research/units/developmental-biology/), the [European Molecular Biology Laboratory (EMBL) Heidelberg](https://www.embl.org/sites/heidelberg/)
+  * The Opto-inflammasome in zebrafish as a tool to study cell and tissue responses to speck formation and cell death.
+  * Hosted by the [Leptin group](https://www.embl.org/groups/leptin/) led by Dr. Maria Leptin
+  * Supervised by Dr. Eva Hasel & Dr. Maria Leptin
+  * Publication: The Opto-inflammasome in zebrafish as a tool to study cell and tissue responses to speck formation and cell death](https://elifesciences.org/articles/86373).
 
  
 * 01 - 02 2020: Internship
