@@ -11,24 +11,28 @@ redirect_from:
 
 Education
 ------
-* BSc in microbiology and biochemistry: Honors in Microbiology and Chemistry, awarded by [St. Xavier's College](https://xaviers.ac/), an honours college of [Mumbai University](https://mu.ac.in/) in 2018.
-
-Completed Microbiology (1), Biochemistry (1), Chemistry (2) and Physics (3) tracks (number indicates course weight rank).(https://sites.google.com/xaviers.edu/microbiology)' qualification recognised by research medical doctor master programmes in India.
-
-* MSc in Microbiology: awarded by the [St. Xavier's College](https://xaviers.ac/) programme at [Mumbai University](https://mu.ac.in/) in 2020.
-
-Focused in Developmental Biology.
-
 * PhD degree to be awarded by [PSL Research University](https://psl.eu/en), expected by the end of September, 2026.
 
 Project focused on understanding the mechanics of the plasma membrane during mouse preimplantation development. 
 
+About the project:
 During epithelial stretching, cells increase their surface area by unfolding plasma membrane reservoirs, structures that remain poorly characterized in vivo. In mouse preimplantation development, the trophectoderm (TE) stretches to quadruple the embryo’s surface area, accommodating the inflating lumen. My research focuses on plasma membrane mechanics during the first apicobasal polarization and lumen formation, both requiring significant plasma membrane reorganization. Using optical tweezers to pull membrane tethers/tubes, we probed plasma membrane mechanics throughout preimplantation development. We discovered that membrane tension decreases from the zygote to the 4-cell stage, then increases at the 8-cell stage when apicobasal polarity is established. This finding was confirmed with fluorescence lifetime imaging microscopy (FLIM) of a membrane tension probe. We hypothesize that the microvilli tufts on the apical surface of the 8-cell embryo act as membrane reservoirs. Future measurements will target localized membrane regions to uncover the unique properties and behaviors of these reservoirs during epithelial stretching. Additional theoretical modeling will further elucidate their role in shaping plasma membrane mechanics during preimplantation morphogenesis.
 
 
 Funded by the [EuReCa international PhD programme](https://training.institut-curie.org/eureca) supported by the [European Union’s Horizon 2020 research and innovation](https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-2020_en) programme, [Marie Skłodowska-Curie Actions](https://marie-sklodowska-curie-actions.ec.europa.eu/) fellow. 
 
 Member of [l’école doctorale Complexité du Vivant](https://www.sorbonne-universite.fr/ecoles-doctorales/complexite-du-vivant), [Sorbonne University](https://www.sorbonne-universite.fr/en).
+
+
+* MSc in Microbiology: awarded by the [St. Xavier's College](https://xaviers.ac/) programme at [Mumbai University](https://mu.ac.in/) in 2020.
+
+Focused in Microbiology and molecular biology.
+
+
+* BSc in microbiology and biochemistry: Honors in Microbiology and Chemistry, awarded by [St. Xavier's College](https://xaviers.ac/), an honours college of [Mumbai University](https://mu.ac.in/) in 2018.
+
+Completed Microbiology (1), Biochemistry (1), Chemistry (2) and Physics (3) tracks (number indicates course weight rank).(https://sites.google.com/xaviers.edu/microbiology)' qualification recognised by research medical doctor master programmes in India.
+
 
 
 Research experience
