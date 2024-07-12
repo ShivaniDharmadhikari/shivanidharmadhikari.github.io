@@ -31,8 +31,7 @@ Focused in Microbiology and molecular biology.
 
 * BSc in microbiology and biochemistry: Honors in Microbiology and Chemistry, awarded by [St. Xavier's College](https://xaviers.ac/), an honours college of [Mumbai University](https://mu.ac.in/) in 2018.
 
-Completed Microbiology (1), Biochemistry (1), Chemistry (2) and Physics (3) tracks (number indicates course weight rank).(https://sites.google.com/xaviers.edu/microbiology)' qualification recognised by research medical doctor master programmes in India.
-
+Completed [Microbiology](https://sites.google.com/xaviers.edu/microbiology) (1), Biochemistry (1), Chemistry (2) and Physics (3) tracks (number indicates course weight rank). Qualification recognised by the [University of Mumbai](https://mu.ac.in/) under Education ministry in India
 
 
 Research experience
