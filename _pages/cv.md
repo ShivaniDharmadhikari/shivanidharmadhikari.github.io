@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/f38e848a-9769-48c4-b8e7-fa34c4f72a7c)---
 layout: archive
 #title: "CV"
 permalink: /cv/
@@ -63,6 +63,7 @@ Research experience
 * 05/2019 - 08/2019 (4 months): Master's Thesis 1
   * [Bhabha Atomic Research Center](https://www.barc.gov.in/)
   * Enhancing the iron content in Finger millet with the help of siderophore producing bacteria.
+    In this project different siderophore producing bacteria were used individually and in consortium to enhance the iron uptake in the finger millet plant grown hydroponically as well as in the soil. Atomic absorption spectroscopy was used for estimation of total iron content.
   * Hosted by the [Nuclear Agriculture and biotechnology department](https://www.barc.gov.in/div/66_209.html) led by Dr Chakraborty
   * Supervised by Dr. Sayaji Mehetre
 
