@@ -1,6 +1,5 @@
 ---
 title: "Course organisation"
-excerpt: "Developmental Biology - from Stem Cells to Morphogenesis course"(https://training.institut-curie.org/courses/developmental-biology-2024) 2023 and 2024 at Institut Curie. Responsible for communication with all attendees."
+excerpt: "Developmental Biology - from Stem Cells to Morphogenesis course 2022 and 2023 at Institut Curie. Responsible for communication with all attendees.(https://training.institut-curie.org/courses/developmental-biology-2024)"
 collection: portfolio
 ---
-
