@@ -8,6 +8,6 @@ date: 2024.06.01
 location: "Paris, France"
 ---
 
-Assisted an Bachelor's student as a part of UROP internship program launched by PSL and Institut Curie.
+Supervised a Bachelor's student as a part of UROP internship program launched by PSL and Institut Curie.
 The internship program consisted of a group of students visiting different labs in Curie and to come up with one project that could be conducted in different labs. One of the students worked with me to work on finding the mechanical properties of colorectal tumeroids. 
  
