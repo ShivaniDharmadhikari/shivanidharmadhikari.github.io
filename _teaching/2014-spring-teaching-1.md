@@ -1,11 +1,12 @@
 ---
-title: "Master internship student supervison"
+title: "Bachelor student supervison"
 collection: teaching
-type: "Master year 1 internship"
+type: "Bachelor internship"
 permalink: /teaching/2014-spring-teaching-1
-venue: "the Physical Chemistry Curie Lab, Institut Curie"
-date: 2022-04-01
+venue: "Genetics and Developmental Biology Unit (UMR3215 / U934), Institut Curie"
+date: 2024.06.01
 location: "Paris, France"
 ---
 
-Assisted supervision of the following master year 1 students from the [Master Biologie Moléculaire et Cellulaire](https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/masters/master-biologie-moleculaire-et-cellulaire-bmc) programme at Sorbonne University in membrane protein purification (theory & practice): [Kailun Liu](https://www.linkedin.com/in/kailun-liu-12a69718b/) (currently a research intern at [Johns Hopkins University](https://www.jhu.edu/) in Baltimore, the US) & [Hugo Bost](https://www.linkedin.com/in/hugo-bost/) (currently a PhD student at [the Architecture et Fonction des Macromolécules Biologiques Laboratory](https://www.afmb.univ-mrs.fr/en/laboratory/) in Marseilles, France). Both Kailun and Hugo spent 2 months working in our team.
+Assisted an Bachelor's student as a part of UROP internship program launched by PSL and Institut Curie.
+
