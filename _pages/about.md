@@ -28,7 +28,7 @@ As a project assistant at the Leptin Lab, EMBL Heidelberg, I worked on optimisin
 
 My master’s projects at St. Xavier’s College, Mumbai, and NABTD, Bhabha Atomic Research Centre, encompassed diverse research initiatives. At St. Xavier’s College, Mumbai, I conducted studies focused on the phenolic composition of wines, exploring the antioxidant properties and chemical profiles of various wine samples. This research aimed to enhance understanding of the health benefits associated with wine consumption and contribute to the broader field of food chemistry and nutrition.
 
-Simultaneously, at NABTD, Bhabha Atomic Research Centre, my research focused on enhancing the iron content in millet grains. I employed biochemical and molecular techniques to investigate strategies for increasing the bioavailability of iron in millet, an important staple crop in regions vulnerable to micronutrient deficiencies. This project aimed to address nutritional challenges through biofortification, contributing to efforts in agronomy and food security.
+Simultaneously, at NABTD (Nuclear agricultural and biotechnology), Bhabha Atomic Research Centre, Mumbai my research focused on enhancing the iron content in millet grains. I employed biochemical and molecular techniques to investigate strategies for increasing the bioavailability of iron in millet, an important staple crop in regions vulnerable to micronutrient deficiencies. This project aimed to address nutritional challenges through biofortification, contributing to efforts in agronomy and food security.
 
 Future
 ------
