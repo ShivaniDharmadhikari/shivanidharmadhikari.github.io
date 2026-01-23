@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a biologist with a strong interest in the intersections of biology and physics. My expertise includes microscopy, advanced optical techniques and biophysical measurement techniques  to study the early stages of embryonic development. I thrive in interdisciplinary environments and am dedicated to uncovering fundamental processes that shape life. My future goal is to apply my research in early developmental biology.
+I am a biologist with a strong interest in the intersections of biology and physics. My expertise includes different kinds of microscopy and analysis, advanced optical techniques, biophysical measurement techniques and genetics to study the early stages of embryonic development. I thrive in interdisciplinary environments and am dedicated to uncovering fundamental processes that shape life. My future goal is to apply my research in early developmental biology.
 
 Currently
 ------
@@ -24,7 +24,7 @@ Previously
 
 As a project assistant at the Leptin Lab, EMBL Heidelberg, I worked on optimising optogenetic techniques to understand inflammasome formation in epithelium of the zebrafish. Overall, the study employs a combination of molecular biology techniques (genetic engineering of Opto-ASC), advanced imaging techniques (live cell imaging), histological analysis (morphological characterization), and functional assays (calcium signaling assays) to investigate the control and effects of inflammasome activation in a controlled, cell-specific manner in zebrafish
 
-2018-2022
+2018 - 2022
 
 My master’s projects at St. Xavier’s College, Mumbai, and NABTD, Bhabha Atomic Research Centre, encompassed diverse research initiatives. At St. Xavier’s College, Mumbai, I conducted studies focused on the phenolic composition of wines, exploring the antioxidant properties and chemical profiles of various wine samples. This research aimed to enhance understanding of the health benefits associated with wine consumption and contribute to the broader field of food chemistry and nutrition.
 
