@@ -46,9 +46,7 @@ I pursue a variety of interests that complement my professional endeavours in bi
 Contact
 ------
 Mechanics of Mammalian development lab
-
 Email: shivani.dharmadhikari@curie.fr
-
-Address: Institut Curie, Paris, France
+Address: Institut Curie, Paris - 400005, France
 
 
