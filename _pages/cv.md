@@ -12,26 +12,18 @@ redirect_from:
 Education
 ------
 * PhD degree to be awarded by [PSL Research University](https://psl.eu/en), expected by the end of September, 2026.
+  
+About the PhD project:
+Title: Understanding the mechanics of the plasma membrane during mouse preimplantation development. 
+Abstract: During epithelial stretching, cells increase their surface area by unfolding plasma membrane reservoirs, structures that remain poorly characterized in vivo. In mouse preimplantation development, the trophectoderm (TE) stretches to quadruple the embryo’s surface area, accommodating the inflating lumen. My research focuses on plasma membrane mechanics during the first apicobasal polarization and lumen formation, both requiring significant plasma membrane reorganization. Using optical tweezers to pull membrane tethers/tubes, we probed plasma membrane mechanics throughout preimplantation development. We discovered that membrane tension decreases from the zygote to the 4-cell stage, then increases at the 8-cell stage when apicobasal polarity is established. This finding was confirmed with fluorescence lifetime imaging microscopy (FLIM) of a membrane tension probe. We hypothesize that the microvilli tufts on the apical surface of the 8-cell embryo act as membrane reservoirs. Future measurements will target localized membrane regions to uncover the unique properties and behaviors of these reservoirs during epithelial stretching. Additional theoretical modeling will further elucidate their role in shaping plasma membrane mechanics during preimplantation morphogenesis.
 
-Project focused on understanding the mechanics of the plasma membrane during mouse preimplantation development. 
 
-About the project:
-During epithelial stretching, cells increase their surface area by unfolding plasma membrane reservoirs, structures that remain poorly characterized in vivo. In mouse preimplantation development, the trophectoderm (TE) stretches to quadruple the embryo’s surface area, accommodating the inflating lumen. My research focuses on plasma membrane mechanics during the first apicobasal polarization and lumen formation, both requiring significant plasma membrane reorganization. Using optical tweezers to pull membrane tethers/tubes, we probed plasma membrane mechanics throughout preimplantation development. We discovered that membrane tension decreases from the zygote to the 4-cell stage, then increases at the 8-cell stage when apicobasal polarity is established. This finding was confirmed with fluorescence lifetime imaging microscopy (FLIM) of a membrane tension probe. We hypothesize that the microvilli tufts on the apical surface of the 8-cell embryo act as membrane reservoirs. Future measurements will target localized membrane regions to uncover the unique properties and behaviors of these reservoirs during epithelial stretching. Additional theoretical modeling will further elucidate their role in shaping plasma membrane mechanics during preimplantation morphogenesis.
-
-
-Funded by the [EuReCa international PhD programme](https://training.institut-curie.org/eureca) supported by the [European Union’s Horizon 2020 research and innovation](https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-2020_en) programme, [Marie Skłodowska-Curie Actions](https://marie-sklodowska-curie-actions.ec.europa.eu/) fellow. 
-
-Member of [l’école doctorale Complexité du Vivant](https://www.sorbonne-universite.fr/ecoles-doctorales/complexite-du-vivant), [Sorbonne University](https://www.sorbonne-universite.fr/en).
-
+Funded by the [EuReCa international PhD programme](https://training.institut-curie.org/eureca) supported by the [European Union’s Horizon 2020 research and innovation](https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-2020_en) programme, [Marie Skłodowska-Curie Actions](https://marie-sklodowska-curie-actions.ec.europa.eu/) fellow. Member of [l’école doctorale Complexité du Vivant](https://www.sorbonne-universite.fr/ecoles-doctorales/complexite-du-vivant), [Sorbonne University](https://www.sorbonne-universite.fr/en).
 
 * MSc in Microbiology: awarded by the [St. Xavier's College](https://xaviers.ac/) programme at [Mumbai University](https://mu.ac.in/) in 2020.
-
 Focused in Microbiology and molecular biology.
 
-
-* BSc in microbiology and biochemistry: Honors in Microbiology and Chemistry, awarded by [St. Xavier's College](https://xaviers.ac/), an honours college of [Mumbai University](https://mu.ac.in/) in 2018.
-
-Completed [Microbiology](https://sites.google.com/xaviers.edu/microbiology) (1), Biochemistry (1), Chemistry (2) and Physics (3) tracks (number indicates course weight rank). Qualification recognised by the [University of Mumbai](https://mu.ac.in/) under Education ministry in India
+* BSc in microbiology and biochemistry: Honors in Microbiology and Chemistry, awarded by [St. Xavier's College](https://xaviers.ac/), an honours college of [Mumbai University](https://mu.ac.in/) in 2018. Completed [Microbiology](https://sites.google.com/xaviers.edu/microbiology) (1), Biochemistry (1), Chemistry (2) and Physics (3) tracks (number indicates course weight rank). Qualification recognised by the [University of Mumbai](https://mu.ac.in/) under Education ministry in India
 
 
 Research experience
@@ -58,11 +50,10 @@ Research experience
   * Hosted by the [Microbiology department](https://xaviers.ac/admissions/degree/post-graduate/msc/microbiology) group led by Prof. Miriam Stewart
   * Supervised by Dr. Pampi Chakraborty
   
-
  
 * 05/2019 - 08/2019 (4 months): Master's Thesis 1
   * [Bhabha Atomic Research Center](https://www.barc.gov.in/)
-  * Enhancing the iron content in Finger millet with the help of siderophore producing bacteria. In this project different siderophore producing bacteria were used individually and in consortium to enhance the iron uptake in the finger millet plant grown hydroponically as well as in the soil. Atomic absorption spectroscopy was used for estimation of total iron content.
+  * Enhancing the iron content in Finger millet with the help of siderophore producing bacteria. In this project different siderophore producing bacteria were used individually      and in consortium to enhance the iron uptake in the finger millet plant grown hydroponically as well as in the soil. Atomic absorption spectroscopy was used for estimation       of total iron content.
   * Hosted by the [Nuclear Agriculture and biotechnology department](https://www.barc.gov.in/div/66_209.html) led by Dr Chakraborty
   * Supervised by Dr. Sayaji Mehetre
 
