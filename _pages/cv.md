@@ -39,7 +39,7 @@ Research experience
 * 02/2021 - 08/2022 (18 months): Project assistant
   * The [Developmental biology unit](https://www.embl.org/research/units/developmental-biology/), the [European Molecular Biology Laboratory (EMBL) Heidelberg](https://www.embl.org/sites/heidelberg/)
   * Optimization of the optogenetic tool to study cell death in epithelia of zebrafish.
-  * Hosted by the [Leptin group](https://www.embl.org/groups/leptin/) led by Dr. Maria Leptin
+  * Hosted by the [Leptin group](https://www.embl.org/groups/leptin/) led by [Dr. Maria Leptin]((https://erc.europa.eu/erc-member/maria-leptin))
   * Supervised by Dr. Eva Hasel & Dr. Maria Leptin
   * Publication: The Opto-inflammasome in zebrafish as a tool to study cell and tissue responses to speck formation and cell death[The Opto-inflammasome in zebrafish as a tool to study cell and tissue responses to speck formation and cell death](https://elifesciences.org/articles/86373) 
 
