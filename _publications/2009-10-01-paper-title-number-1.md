@@ -8,7 +8,7 @@ venue: 'eLife'
 paperurl: 'https://elifesciences.org/articles/86373'
 citation: 'Eva Hasel de Carvalho, Shivani S Dharmadhikari, Kateryna Shkarina, Jingwei Rachel Xiong, Bruno Reversade, Petr Broz, Maria Leptin (2023) The Opto-inflammasome in zebrafish as a tool to study cell and tissue responses to speck formation and cell death eLife 12:e86373
 
-            [https://doi.org/](https://elifesciences.org/articles/86373)
+           (https://elifesciences.org/articles/86373)
     '
 ---
 
