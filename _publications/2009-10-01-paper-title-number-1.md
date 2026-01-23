@@ -22,28 +22,14 @@ citation: |
   Eva Hasel de Carvalho, Shivani S Dharmadhikari, Kateryna Shkarina, Jingwei Rachel Xiong, 
   Bruno Reversade, Petr Broz, Maria Leptin (2023) The Opto-inflammasome in zebrafish as a tool 
   to study cell and tissue responses to speck formation and cell death eLife 12:e86373
+movies:
+  - title: "Optogenetic induction of ASC speck formation"
+    file: "/assets/videos/elife-86373-video1.mp4"
+    caption: "Light-induced ASC speck formation and pyroptotic cell death in zebrafish periderm cells."
+  - title: "Calcium response to apical and basal extrusion of periderm cells"
+    file: "/assets/videos/elife-86373-video11-pmcvs_normal.mp4"
+    caption: "Calcium signaling observed during apical and basal extrusion following inflammasome activation."
 ---
-
-
 [Download paper here](http://shivanidharmadhikari.github.io/files/Paper_1.pdf)
-
----
-
-##  Movies
-
-### Movie 1. Optogenetic induction of ASC speck formation
-<video controls style="max-width:100%; height:auto;">
-  <source src="/assets/videos/elife-86373-video1.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-*Light-induced ASC speck formation and pyroptotic cell death in zebrafish periderm cells.*
-
----
-
-### Movie 2. Calcium response to Apical and basal extrusion of periderm cells
-<video controls style="max-width:100%; height:auto;">
-  <source src="/assets/videos/elife-86373-video11-pmcvs_normal.mp4" type="video/mp4">
-</video>
-*Apical extrusion following inflammasome activation.*
 
 ---
