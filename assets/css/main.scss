@@ -39,3 +39,23 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+/* Body and headings */
+body {
+    font-family: 'Inter', 'Lato', 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+    line-height: 1.7;
+    color: #333;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Merriweather', 'Lora', Georgia, serif;
+}
+
+/* Devanagari for Hindi / Marathi */
+.hindi, .marathi {
+    font-family: 'Noto Sans Devanagari', 'Hind', 'Mangal', serif;
+}
+
+/* German / French accented characters */
+.german, .french {
+    font-family: 'Inter', 'Lato', 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+}
