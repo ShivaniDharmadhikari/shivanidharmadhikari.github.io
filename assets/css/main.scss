@@ -102,32 +102,40 @@ body {
 }
 
 /* ======================================
-   All page headings (Home, CV, Publications, Teaching, etc.)
+   All headings everywhere on the site
    ====================================== */
 
-/* Standard pages */
+/* Target any heading inside the main content area */
+.main-content h1,
+.main-content h2,
+.main-content h3,
+.main-content h4,
+.main-content h5,
+.main-content h6,
 .page__content h1,
 .page__content h2,
 .page__content h3,
 .page__content h4,
 .page__content h5,
 .page__content h6,
-
-/* Collection pages (CV, Publications, Teaching, Talks, Portfolio) */
 .entry-content h1,
 .entry-content h2,
 .entry-content h3,
 .entry-content h4,
 .entry-content h5,
 .entry-content h6,
-
-/* Single layout pages for collections */
 .single-content h1,
 .single-content h2,
 .single-content h3,
 .single-content h4,
 .single-content h5,
-.single-content h6 {
-  font-family: 'Merriweather', 'Lora', Georgia, serif;
+.single-content h6,
+.prose h1,
+.prose h2,
+.prose h3,
+.prose h4,
+.prose h5,
+.prose h6 {
+  font-family: 'Merriweather', 'Lora', Georgia, serif !important;
   font-weight: 700;
 }
