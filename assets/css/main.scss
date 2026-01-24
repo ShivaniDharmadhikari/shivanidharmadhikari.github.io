@@ -46,9 +46,6 @@ body {
     color: #333;
 }
 
-h1, h2, h3, h4, h5, h6 {
-    font-family: 'Merriweather', 'Lora', Georgia, serif;
-}
 
 /* Devanagari for Hindi / Marathi */
 .hindi, .marathi {
@@ -81,7 +78,3 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 700;
 }
 
-/* NAME under the profile picture */
-.author__name {
-  font-family: 'Merriweather', 'Lora', Georgia, serif !important;
-}
