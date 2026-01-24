@@ -78,3 +78,25 @@ body {
   font-weight: 700;
 }
 
+/* ======================================
+   Sidebar name + title font override
+   ====================================== */
+
+/* Navigation links at the top (Home, CV, Publications…) */
+.masthead__nav a,
+.masthead__brand a {
+  font-family: 'Inter', 'Lato', 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+  font-weight: 500; /* same weight as About me body text */
+}
+
+/* Author name under the photo */
+.author__name {
+  font-family: 'Inter', 'Lato', 'Segoe UI', 'Helvetica Neue', Arial, sans-serif !important;
+  font-weight: 600; /* slightly bolder than paragraph */
+}
+
+/* Author short bio under the name (PhD student …) */
+.author__bio {
+  font-family: 'Inter', 'Lato', 'Segoe UI', 'Helvetica Neue', Arial, sans-serif !important;
+  font-weight: 400; /* normal weight like About me text */
+}
