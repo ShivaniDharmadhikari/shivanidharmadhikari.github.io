@@ -102,11 +102,10 @@ body {
 }
 
 /* ======================================
-   All page headings (CV, Publications, Teaching, etc.)
-   same as About me / Home
+   Headings everywhere (Home, CV, Publications, Teaching, etc.)
    ====================================== */
 
-/* Headings inside standard pages */
+/* Standard pages */
 .page__content h1,
 .page__content h2,
 .page__content h3,
@@ -114,13 +113,21 @@ body {
 .page__content h5,
 .page__content h6,
 
-/* Headings inside collection pages */
+/* Collection pages (CV, Publications, Teaching, Talks, Portfolio) */
 .entry-content h1,
 .entry-content h2,
 .entry-content h3,
 .entry-content h4,
 .entry-content h5,
-.entry-content h6 {
+.entry-content h6,
+
+/* Single layout pages for collections */
+.single-content h1,
+.single-content h2,
+.single-content h3,
+.single-content h4,
+.single-content h5,
+.single-content h6 {
   font-family: 'Merriweather', 'Lora', Georgia, serif;
   font-weight: 700;
 }
