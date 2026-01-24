@@ -101,3 +101,17 @@ body {
   font-weight: 400; /* normal weight like About me text */
 }
 
+/* ======================================
+   CV page headings same as About me / Home
+   ====================================== */
+
+/* Target headings inside CV page content */
+.cv .page__content h1,
+.cv .page__content h2,
+.cv .page__content h3,
+.cv .page__content h4,
+.cv .page__content h5,
+.cv .page__content h6 {
+  font-family: 'Merriweather', 'Lora', Georgia, serif;
+  font-weight: 700; /* bold like About me headings */
+}
