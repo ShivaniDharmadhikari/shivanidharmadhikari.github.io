@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 Education
 ------
 * PhD degree to be awarded by [PSL Research University](https://psl.eu/en), expected by the end of September, 2026.
