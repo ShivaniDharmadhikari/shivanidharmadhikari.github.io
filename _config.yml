@@ -315,3 +315,9 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+google_fonts:
+  - "Inter:300,400,500,600,700"
+  - "Merriweather:300,400,700"
+  - "Lora:400,700"
+
