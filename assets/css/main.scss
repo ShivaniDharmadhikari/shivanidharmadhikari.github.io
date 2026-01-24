@@ -60,3 +60,29 @@ h1, h2, h3, h4, h5, h6 {
     font-family: 'Inter', 'Lato', 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
 }
 
+/* ======================================
+   HEADINGS + PAGE TITLES + AUTHOR NAME
+   ====================================== */
+
+/* Page titles (About me, CV, Publications, etc.) */
+.page__title {
+  font-family: 'Merriweather', 'Lora', Georgia, serif;
+  font-weight: 700;
+}
+
+/* Section headings inside page content */
+.page__content h1,
+.page__content h2,
+.page__content h3,
+.page__content h4,
+.page__content h5,
+.page__content h6 {
+  font-family: 'Merriweather', 'Lora', Georgia, serif;
+  font-weight: 700;
+}
+
+/* NAME under the profile picture */
+.author__name {
+  font-family: 'Merriweather', 'Lora', Georgia, serif;
+  font-weight: 700;
+}
