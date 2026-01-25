@@ -7,12 +7,13 @@ redirect_from:
   - /resume
 ---
 
-Education
 ------
 * PhD degree to be awarded by [PSL Research University](https://psl.eu/en), expected by the end of September, 2026.
   
 About the PhD project:
+
 Title: Understanding the mechanics of the plasma membrane during mouse preimplantation development. 
+
 Abstract: During epithelial stretching, cells increase their surface area by unfolding plasma membrane reservoirs, structures that remain poorly characterized in vivo. In mouse preimplantation development, the trophectoderm (TE) stretches to quadruple the embryo’s surface area, accommodating the inflating lumen. My research focuses on plasma membrane mechanics during the first apicobasal polarization and lumen formation, both requiring significant plasma membrane reorganization. Using optical tweezers to pull membrane tethers/tubes, we probed plasma membrane mechanics throughout preimplantation development. We discovered that membrane tension decreases from the zygote to the 4-cell stage, then increases at the 8-cell stage when apicobasal polarity is established. This finding was confirmed with fluorescence lifetime imaging microscopy (FLIM) of a membrane tension probe. We hypothesize that the microvilli tufts on the apical surface of the 8-cell embryo act as membrane reservoirs. Future measurements will target localized membrane regions to uncover the unique properties and behaviors of these reservoirs during epithelial stretching. Additional theoretical modeling will further elucidate their role in shaping plasma membrane mechanics during preimplantation morphogenesis.
 
 
